@@ -94,3 +94,48 @@ color: rgb(65, 65, 65);}
 
 .recipe-text{padding: 40px 140px;
 color: rgb(77, 77, 77);}
+
+.why-us{margin-top: 130px;
+background-image: url('images/shapes/Frame\ 58.jpg');
+background-repeat: no-repeat;
+background-size: cover;}
+
+.service-div{display: flex;
+width: 100%;
+margin-top: 70px;}
+
+.food-quality{width: 22%;
+margin: auto;
+}
+
+.food-quality h2{font-size: 25px;}
+.food-quality p{padding: 20px;
+}
+.bold-text{text-align: center;
+    font-weight: 600;
+    padding-top: 40px;
+}
+.healthy-text{text-align: center;
+padding-top: 30px;
+font-size: 35px;}
+
+.qua-discription{
+    font-size: 16px;
+    padding: 20px 170px;
+    line-height: 1.4;
+    letter-spacing: 1.2;
+    
+}
+
+#border1{border-left: 8px solid black;
+border-image: linear-gradient(#eb3349 , #f45c43);
+border-image-slice: 1;
+padding-left: 20px;}
+#border2{border-left: 8px solid black;
+border-image: linear-gradient(#ffafbd , #ffc3a0);
+border-image-slice: 1;
+padding-left: 20px;}
+#border3{border-left: 8px solid;
+border-image: linear-gradient(#cc2b5e , #753a88);
+border-image-slice: 1;
+padding-left: 20px;}
