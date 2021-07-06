@@ -139,3 +139,25 @@ padding-left: 20px;}
 border-image: linear-gradient(#cc2b5e , #753a88);
 border-image-slice: 1;
 padding-left: 20px;}
+.gallery-area{display: flex;
+width: 100%;}
+.photos{width: 100%;}
+.photos img{width: 25%;
+margin-left: 5%;}
+.gallery{margin-top: 130px;}
+.gallery h1{text-align: center;}
+.gallery p{padding:20px 160px}
+
+
+footer{background-color: black;
+margin-top: 100px;
+width: 100%;}
+footer h3{font-size: 20px;
+color: white;
+text-align: center;
+padding-top: 30px;}
+footer p{font-size: 14px;
+color: white;
+text-align: center;
+padding-top: 10px;
+padding-bottom: 5px;}
